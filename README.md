@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -7,7 +6,7 @@
 自己紹介
  
 <body>
-<p><img src="コンポ 1/コンポ 1_00094.jpg" width="980" height="551" alt=""/>
+<script src="https://gist.github.com/yamajaaki/420dfc429c5c2f5931923419354b70bc.js"></script>
 </p>
 <p>クラスGT2B20　氏名　ヤマザキ</p>
 <p>アフターエフェクトで作りました。</p>
